@@ -30,3 +30,9 @@ Sign up, login, and manage user profile and orders.
 Manage products, orders, and users.
 
 ## Tech Stack
+### Frontend
+     HTML,CSS
+### Backend
+     express.js,node.js,mongoDB
+### Authentication
+     JSON web token(JWT)
